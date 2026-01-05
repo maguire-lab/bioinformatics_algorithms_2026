@@ -4,13 +4,13 @@ title: Paper Review
 permalink: /review/
 ---
 
-A key assessment (totaling 20% of your grade) will be both a written and oral review of a recent bioinformatics research paper.
+A key assessment (totaling 40% of your grade) will be both a written and oral review of a recent bioinformatics research paper.
 This will expose you to cutting-edge research in bioinformatics algorithms and provide you with experience in summarising and critiquing literature.
 
 ## Paper Selection
 
-You will select your own bioinformatics-related primary research paper (i.e., not a review paper) published in or after 2020. This paper will be submitted via Brightspace by <span style="color:red">23:59 on March 21st</span>. Your selection will then be approved within 24 hours (with an alternative suggested if it your selection has issues due to quality, topic, or complexity) and form the basis of a written review and 13-15 minute oral presentation as described below.
-Please speak to me or Jee if you have any questions or concerns about this **before the deadline**.
+You will select your own bioinformatics-related primary research paper (i.e., not a review paper) published in or after 2019. This paper will be submitted via Brightspace by <span style="color:red">23:59 on March 11th</span>. Your selection will then be approved within 24 hours (with an alternative suggested if it your selection has issues due to quality, topic, or complexity) and form the basis of a written review and 13-15 minute oral presentation as described below.
+Please speak to me if you have any questions or concerns about this **before the deadline**.
 
 Journals and proceedings check for papers that seem interesting include:
 
@@ -31,7 +31,7 @@ This can make them challenging to summarise well especially with more limited bi
 
 You will prepare a written summary of the paper, the ideas it contains, the methods it uses, and the reported findings.
 This is marked out of **20** and will be worth **10%** of your final grade.
-The written summary must be submitted via brightspace by <span style="color:red">23:59 on April 4th</span>.
+The written summary must be submitted via brightspace by <span style="color:red">23:59 on April 8th</span>.
 This should be a .docx or .pdf formatted file named following this scheme: "BannerID\_LastName\_PaperReview.{pdf,docx}"
 
 The key to this exercise is to demonstrate the insights you have gained from throughout the course. We're also interested to hear your opinion of the work that was reported in the paper!
@@ -54,7 +54,7 @@ Mark scheme for written summary:
 ## Oral Summary
 
 You will prepare a 10 minute presentation summarising the paper, the ideas it contains, the methods it uses, and the report findings.
-This is also marked out of **20** and will be worth **10%** of your final grade. Presentations will be scheduled in random order after your paper selection is finalised and will take place during the last week of class: <span style="color:red">April 4th-6th</span>.
+This is also marked out of **20** and will be worth **10%** of your final grade. Presentations will be scheduled in random order after your paper selection is finalised and will take place during the last week of class: <span style="color:red">April 6th-8th</span>.
 
 Mark scheme for the oral summary is the same as the written summary with the exception of **Clarity**:
 - **Length**: 10 minutes max

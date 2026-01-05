@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-02-09
+date: 2026-02-23
 name: Module 
 description: 'Assembly'
 hide_from_announcments: true

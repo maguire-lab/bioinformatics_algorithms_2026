@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-07T08:35:00
+date: 2026-01-07T15:35:00-0300
 title: "01 Course Overview & Life at Resolution"
 tldr: "Overview of the course, motivational plagues, and biology background from DNA to Ecosystems"
 hide_from_announcments: true

@@ -7,6 +7,6 @@ hide_from_announcments: true
 links: 
     - url:  /static_files/lectures/01_course_overview_and_life_at_res.pdf  
       name: slides
-    #- url:  https://youtu.be/T3rtoXoA14M
-    #  name: recording (previous offering)
+    - url:  https://youtu.be/kAlhK43YZ-U
+      name: recording
 ---

@@ -1,0 +1,12 @@
+---
+type: lecture
+date: 2026-01-12
+title: "02 Central Dogma & Pathways"
+tldr: "Foundational material on biochemical pathways and how central dogma determines how biological data is copied and interpreted by cells"
+hide_from_announcments: true
+links: 
+    - url:  /static_files/lectures/02_central_dogma_and_pathways.pdf
+      name: slides
+    #- url:  https://youtu.be/YFNF5wAfvrI 
+    #  name: recording
+---

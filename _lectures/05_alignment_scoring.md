@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/05_alignment_scoring.pdf  
       name: slides
-#    - url: https://youtu.be/KqK1pk79s3s 
-#      name: recording
+    - url: https://youtu.be/PbOfnYZ1Y9I
+      name: recording
 ---

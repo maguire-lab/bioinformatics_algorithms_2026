@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/06_dynamic_alignment.pdf 
       name: slides
-#    - url: https://youtu.be/ZC9A3l2i5yU 
-#      name: recording
+    - url: https://youtu.be/7f8bi1VKAHk 
+      name: recording
 ---

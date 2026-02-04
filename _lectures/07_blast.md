@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/07_fast_searching.pdf
       name: slides
-    #- url: https://youtu.be/NNH7ZmHp61E 
-    #  name: recording
+    - url: https://youtu.be/CTdXY7GH8hU
+      name: recording
 ---

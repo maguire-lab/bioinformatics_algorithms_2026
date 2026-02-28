@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-02-25T15:35:00-0300
+date: 2026-03-02T15:35:00-0300
 title: 'Assignment 2 - Assembly'
 #pdf: /static_files/assignments/CSCI4181_6802_Assignment2_Assembly.pdf 
 #attachment: /static_files/assignments/asg.zip
@@ -8,6 +8,6 @@ title: 'Assignment 2 - Assembly'
 hide_from_announcments: true
 due_event: 
     type: due
-    date: 2026-03-04T23:59:00-0300
+    date: 2026-03-09T23:59:00-0300
     description: 'Assignment 2 Deadline'
 ---

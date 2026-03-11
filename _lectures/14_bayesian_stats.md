@@ -1,0 +1,12 @@
+---
+type: lecture
+date: 2026-03-11
+title: "14 Bayesian Phylogenetic and Statitical Support"
+tldr: "Using Bayesian methods to infer evolutionary trees and inferring the statistical support of different trees"
+hide_from_announcments: false
+links: 
+    - url: /static_files/lectures/14_bayes_stats.pdf
+      name: slides
+    #- url: https://www.youtube.com/watch?v=jMiI_SP0ZXM
+    #  name: recording
+---

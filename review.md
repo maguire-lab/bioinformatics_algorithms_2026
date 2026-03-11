@@ -9,7 +9,7 @@ This will expose you to cutting-edge research in bioinformatics algorithms and p
 
 ## Paper Selection
 
-You will select your own bioinformatics-related primary research paper (i.e., not a review paper) published in or after 2019. This paper will be submitted via Brightspace by <span style="color:red">23:59 on March 11th</span>. Your selection will then be approved within 24 hours (with an alternative suggested if it your selection has issues due to quality, topic, or complexity) and form the basis of a written review and 13-15 minute oral presentation as described below.
+You will select your own bioinformatics-related primary research paper (i.e., not a review paper) published in or after 2019. This paper will be submitted via email to finlay.maguire@dal.ca by <span style="color:red">23:59 on March 11th</span>. Your selection will then be approved within 24 hours (with an alternative suggested if it your selection has issues due to quality, topic, or complexity) and form the basis of a written review and 13-15 minute oral presentation as described below.
 Please speak to me if you have any questions or concerns about this **before the deadline**.
 
 Journals and proceedings check for papers that seem interesting include:

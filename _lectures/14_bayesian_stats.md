@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/14_bayes_stats.pdf
       name: slides
-    #- url: https://www.youtube.com/watch?v=jMiI_SP0ZXM
-    #  name: recording
+    - url: https://youtu.be/fwGNANtmc4M
+      name: recording
 ---

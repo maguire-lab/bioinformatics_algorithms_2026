@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/15_outbreaks.pdf
       name: slides
-    #- url: https://www.youtube.com/watch?v=jMiI_SP0ZXM
-    #  name: recording
+    - url: https://youtu.be/vNAk2AdzIlY
+      name: recording
 ---

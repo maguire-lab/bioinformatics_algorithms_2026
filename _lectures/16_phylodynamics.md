@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/16_phylodynamics.pdf
       name: slides
-    #- url: https://youtu.be/tkIflteutng
-    #  name: recording
+    - url: https://youtu.be/zCG2nbwVRKU
+      name: recording
 ---

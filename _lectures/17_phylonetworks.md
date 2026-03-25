@@ -7,5 +7,7 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/17_phylonetworks.pdf
       name: slides
+    - url: https://youtu.be/E04z-ChXF7I
+      name: recording
  
 ---

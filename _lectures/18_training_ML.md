@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/18_training_ML.pdf
       name: slides
-    #- url: https://youtu.be/SP3a__sdPYA
-    #  name: recording
+    - url: https://youtu.be/u4aROqW7VIc
+      name: recording
 ---

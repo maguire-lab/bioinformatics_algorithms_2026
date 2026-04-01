@@ -7,6 +7,6 @@ hide_from_announcments: false
 links: 
     - url: /static_files/lectures/20_example_ML.pdf
       name: slides
-    #- url: https://youtu.be/mA7cbIlYzn4
-    #  name: recording
+    - url: https://youtu.be/9thDyUYQ9qA
+      name: recording
 ---

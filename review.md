@@ -30,7 +30,7 @@ This can make them challenging to summarise well especially with more limited bi
 ## Written Summary
 
 You will prepare a written summary of the paper, the ideas it contains, the methods it uses, and the reported findings.
-This is marked out of **20** and will be worth **10%** of your final grade.
+This is marked out of **20** and will be worth **20%** of your final grade.
 The written summary must be submitted via brightspace by <span style="color:red">23:59 on April 8th</span>.
 This should be a .docx or .pdf formatted file named following this scheme: "BannerID\_LastName\_PaperReview.{pdf,docx}"
 
@@ -54,7 +54,7 @@ Mark scheme for written summary:
 ## Oral Summary
 
 You will prepare a 10 minute presentation summarising the paper, the ideas it contains, the methods it uses, and the report findings.
-This is also marked out of **20** and will be worth **10%** of your final grade. Presentations will be scheduled in random order after your paper selection is finalised and will take place during the last week of class: <span style="color:red">April 6th-8th</span>.
+This is also marked out of **20** and will be worth **20%** of your final grade. Presentations will be scheduled in random order after your paper selection is finalised and will take place during the last week of class: <span style="color:red">April 6th-8th</span>.
 
 Mark scheme for the oral summary is the same as the written summary with the exception of **Clarity**:
 - **Length**: 10 minutes max
